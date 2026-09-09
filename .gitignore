@@ -67,3 +67,12 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# 编译产物
+*.o
+*.out
+cpp/debug-demo/sum
+build/
+
+# 编辑器个人配置
+.vscode/
