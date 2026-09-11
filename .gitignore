@@ -76,3 +76,12 @@ build/
 
 # 编辑器个人配置
 .vscode/
+
+# 编译产物
+*.o
+*.out
+build/
+cpp/debug-demo/sum
+
+# 编辑器个人配置
+.vscode/
