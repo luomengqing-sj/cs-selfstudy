@@ -85,3 +85,7 @@ cpp/debug-demo/sum
 
 # 编辑器个人配置
 .vscode/
+cpp/ptr
+cpp/ptr_asan
+cpp/str_ptr
+sandbox/oob
