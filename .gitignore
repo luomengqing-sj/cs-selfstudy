@@ -3,3 +3,11 @@ rmp
 rmp_mine
 a.out
 *.o
+.vscode/
+*.txt
+cpp/decl
+cpp/ptr
+cpp/ptr_asan
+cpp/str_ptr
+cpp/debug-demo/sum
+sandbox/oob
