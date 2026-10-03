@@ -11,3 +11,5 @@ cpp/ptr_asan
 cpp/str_ptr
 cpp/debug-demo/sum
 sandbox/oob
+.venv/
+__pycache__/
